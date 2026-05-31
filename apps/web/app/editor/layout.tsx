@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 // 3. Update your editor layout.tsx to use React Query
 
 "use client";
